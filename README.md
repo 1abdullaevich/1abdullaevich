@@ -1,4 +1,3 @@
-# readme# 💫 About Me:
 💫 About Me:<br><br>🔭 I’m currently working on: Backend developing using Python.<br><br>👯 I’m looking to collaborate on: Open-source projects related to web development or Python.<br><br>🤝 I’m looking for help with: Learning about hacking and working with servers.<br><br>🌱 I’m currently learning: Django concepts and front-end frameworks like JS and React to enhance my full-stack development skills.<br><br>💬 Ask me about: Python web development, SQL, HTML & CSS. I will be so glad to help you.<br><br>⚡ Fun fact: There are around 700 separate programming languages. ...<br>
 
 
